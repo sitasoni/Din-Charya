@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black">#000000</color>
+    <color name="abbey">#494F55</color>
+    <color name="blackAshHalt">#211515</color>
+    <color name="blackOff">#413839</color>
+    <color name="blackCow">#4C4646</color>
+    <color name="blackEel">#463E3F</color>
+    <color name="blackOlive">#3B3C36</color>
+    <color name="charCoal">#36454F</color>
+    <color name="iridium">#3D3C3A</color>
+    <color name="jet">#343434</color>
+
+
+    <color name="ashGrey">#666362</color>
+    <color name="GrayWolf">#504A4B</color>
+
+
+
+    <color name="white">#FFFFFF</color>
+    <color name="red">#FF0000</color>
+    <color name="redLight">#E24A4A</color>
+    <color name="white2">#FDFDFD</color>
+    <color name="white3">#FAF9F6</color>
+    <color name="whiteShade">#D8CFD0</color>
+    <color name="whiteShade1">#E0D8D9</color>
+    <color name="whiteShade2">#E7E1E2</color>
+    <color name="whiteShade3">#EEE9EA</color>
+    <color name="whiteShade4">#F4F1F2</color>
+    <color name="app_shade">#B2BEB5</color>
+    <color name="app_shade2">#63CACECA</color>
+
+</resources>
